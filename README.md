@@ -1,4 +1,4 @@
-**Ecommerce sale Dashboard.******
+**Ecommerce sale Dashboard.**
 This project is an interactive Excel dashboard designed to analyze ecommerce sales performance using KPIs, charts, maps, and filters. It provides a complete overview of sales, profit, quantity sold, customer segments, categories, and regional performance.
 ______________________________________________________________
 📌 Key Performance Indicators (KPIs)
